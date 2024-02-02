@@ -1,26 +1,26 @@
 
-  # 09-readmeGenerator
+  # 11-noteTaker
 
   ## Description
-  To allow developers to quickly make a README file in order to spend more time working on their projects.
+  An application that allows smart business owners to write and save notes so that they can organize the task of the business.
 
   ## Table of Contents
-  The application will take various answers of the user into account so that every README is unique and specific to its particular project.
+  Application can be used to write and save notes
 
   ## Installation
-  Run npm i
+  npm i
 
   ## Usage
-  To answer the questions once they are prompted to do so.
+  Read the Documentation.
 
   ## Contribution Guidelines
-  Follow best practices for commits.
+  Save after each entry.
 
   ## Github
-  UCFDevs
+  AFitzgerald95
 
   ## Test
-  Run npm test
+  npm test
 
   ## License
   
@@ -30,6 +30,6 @@
   ## Questions
   For any questions, please contact me:
 
-  Github: [UCFDevs](https://github.com/UCFDevs)
+  Github: [AFitzgerald95](https://github.com/AFitzgerald95)
 
-  Email: [devs@ucf.edu](mailto:devs@ucf.edu)
+  Email: [austin.fitzgerald702@gmail.com](mailto:austin.fitzgerald702@gmail.com)

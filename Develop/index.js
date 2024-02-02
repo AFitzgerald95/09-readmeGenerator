@@ -51,6 +51,11 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'What is your E-Mail address',
+    },
+    {
+        type: 'input',
+        name: 'additional notes',
+        message: "Is there anything else that the user may wait to know?"
     }
 ];
 
